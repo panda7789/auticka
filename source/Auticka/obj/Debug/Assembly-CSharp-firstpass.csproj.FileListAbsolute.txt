@@ -1,0 +1,99 @@
+C:\Users\LinhartL.ita14\Downloads\Auticka - 2\Auticka - 2\Auticka\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\LinhartL.ita14\Downloads\Auticka - 2\Auticka - 2\Auticka\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\LinhartL.ita14\Downloads\Auticka - 2\Auticka - 2\Auticka\Temp\bin\Debug\nunit.framework.dll
+C:\Users\LinhartL.ita14\Downloads\Auticka - 2\Auticka - 2\Auticka\Temp\bin\Debug\UnityEditor.dll
+C:\Users\LinhartL.ita14\Downloads\Auticka - 2\Auticka - 2\Auticka\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\LinhartL.ita14\Downloads\Auticka - 2\Auticka - 2\Auticka\Temp\bin\Debug\UnityEngine.dll
+C:\Users\LinhartL.ita14\Downloads\Auticka - 2\Auticka - 2\Auticka\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\LinhartL.ita14\Downloads\Auticka - 2\Auticka - 2\Auticka\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\LinhartL.ita14\Downloads\Auticka - 2\Auticka - 2\Auticka\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\LinhartL.ita14\Downloads\Auticka - 2\Auticka - 2\Auticka\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\LinhartL.ita14\Downloads\Auticka - 2\Auticka - 2\Auticka\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\LinhartL.ita14\Downloads\Auticka - 2\Auticka - 2\Auticka\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\LinhartL.ita14\Downloads\Auticka - 2\Auticka - 2\Auticka\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\LinhartL.ita14\Downloads\Auticka - 2\Auticka - 2\Auticka\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\LinhartL.ita14\Downloads\Auticka - 2\Auticka - 2\Auticka\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\LinhartL.ita14\Downloads\Auticka - 2\Auticka - 2\Auticka\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\LinhartL.ita14\Downloads\Auticka - 2\Auticka - 2\Auticka\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\LinhartL.ita14\Downloads\Auticka - 2\Auticka - 2\Auticka\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\LinhartL.ita14\Downloads\Auticka - 2\Auticka - 2\Auticka\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\LinhartL.ita14\Downloads\Auticka - 2\Auticka - 2\Auticka\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\LinhartL.ita14\Downloads\Auticka - 2\Auticka - 2\Auticka\Temp\bin\Debug\UnityEngine.xml
+C:\Users\LinhartL.ita14\Downloads\Auticka - 2\Auticka - 2\Auticka\Temp\bin\Debug\UnityEditor.xml
+C:\Users\LinhartL.ita14\Downloads\Auticka - 2\Auticka - 2\Auticka\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\LinhartL.ita14\Downloads\Auticka - 2\Auticka - 2\Auticka\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\LinhartL.ita14\Downloads\Auticka - 2\Auticka - 2\Auticka\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\LinhartL.ita14\Downloads\Auticka - 2\Auticka - 2\Auticka\Temp\bin\Debug\nunit.framework.xml
+C:\Users\LinhartL.ita14\Downloads\Auticka - 2\Auticka - 2\Auticka\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\LinhartL.ita14\Downloads\Auticka - 2\Auticka - 2\Auticka\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\LinhartL.ita14\Downloads\Auticka - 2\Auticka - 2\Auticka\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\LinhartL.ita14\Downloads\Auticka - 2\Auticka - 2\Auticka\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\LinhartL.ita14\Downloads\Auticka - 2\Auticka - 2\Auticka\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\LinhartL.ita14\Downloads\Auticka - 2\Auticka - 2\Auticka\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\nunit.framework.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEditor.Advertisements.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEditor.Analytics.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEditor.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEditor.HoloLens.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEditor.Networking.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEditor.Purchasing.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEditor.TestRunner.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEditor.Timeline.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEditor.VR.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEngine.Advertisements.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEngine.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEngine.xml
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEditor.xml
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEditor.UI.xml
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEditor.Networking.xml
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEditor.TestRunner.xml
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\nunit.framework.xml
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEditor.Timeline.xml
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEditor.HoloLens.xml
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEditor.VR.xml
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\lukig\Desktop\Auticka - 2\Auticka\obj\Debug\Assembly-CSharp-firstpass.pdb
